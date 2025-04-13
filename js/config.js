@@ -1,6 +1,6 @@
 // 全局常量配置
 
-const PROXY_URL = 'https://exa.81590009.xyz/';
+const PROXY_URL = 'https://ethanmen.mzhq1314.workers.dev/Host/https://example.com/';
 const HOPLAYER_URL = 'https://hoplayer.com/index.html';
 const SEARCH_HISTORY_KEY = 'videoSearchHistory';
 const MAX_HISTORY_ITEMS = 5;
